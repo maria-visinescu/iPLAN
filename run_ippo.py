@@ -24,7 +24,7 @@ from nova.stable_behavior_policy import Behavior_policy as soft_behavior_policy
 from nova.behavior_policy import Behavior_policy as hard_behavior_policy
 from nova.prediction_policy import Prediction_policy
 
-import Heterogeneous_Highway_Env as highway_env
+import highway_env
 import gym
 from envs.env_wrappers import SubprocVecEnv
 from envs.env_wrappers_mpe import SubprocVecEnv as SubprocVecEnv_mpe
