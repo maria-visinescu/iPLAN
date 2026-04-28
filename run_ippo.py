@@ -31,6 +31,9 @@ from envs.env_wrappers_mpe import SubprocVecEnv as SubprocVecEnv_mpe
 from envs.mpe.MPE_env import MPEEnv
 import numpy as np
 
+from nova.prob_stable_behavior_policy import Behavior_policy as prob_behavior_policy
+import csv
+
 def run(_run, _config, _log):
 
     # check args sanity
@@ -171,6 +174,9 @@ def run_sequential(args, logger):
         # Instant incentive
         "attention_latent": {"vshape": (args.max_vehicle_num, args.attention_dim,), "group": "agents"},
 
+        "behavior_mu": {"vshape": (args.max_vehicle_num, args.latent_dim,), "group": "agents"},
+        "behavior_logvar": {"vshape": (args.max_vehicle_num, args.latent_dim,), "group": "agents"},
+
         "avail_actions": {"vshape": (env_info["n_actions"],), "group": "agents", "dtype": th.int},
         "reward": {"vshape": (1,), "group": "agents"},
 
@@ -198,7 +204,10 @@ def run_sequential(args, logger):
 
     # Initialize behavioral incentive inference
     if args.Behavior_enable:
-        if args.behavior_fully_connected:
+        if args.uncertainty_enable:
+            # If uncertainty aware behavior is enabled, use the probabilistic behavior policy
+            behavior_learner = prob_behavior_policy(args, logger)
+        elif args.behavior_fully_connected:
             # Fully connected behavioral incentive inference module
             behavior_learner = behavior_fc_policy(args, logger)
         elif args.soft_update_enable:
@@ -395,6 +404,16 @@ def metric_log_print(args, episode, avg_speed, avg_survival_time, win_num):
           " | Average Episode Survival Time: ", avg_survival_time,
           " | Average Episode Speed: ", avg_speed)
     print("--------------------------------")
+
+    # Log the metrics into a csv file
+    metrics_path = os.path.join(args.local_results_path, "metrics.csv")
+    file_exists = os.path.isfile(metrics_path)
+
+    with open(metrics_path, mode="a", newline="") as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(["Episode","Average Win Num", "Average Survival Time", "Average Speed"])
+        writer.writerow([episode, win_num, avg_survival_time, avg_speed])
 
 def args_sanity_check(config, _log):
     # set CUDA flags

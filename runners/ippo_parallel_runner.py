@@ -139,6 +139,10 @@ class ParallelRunner:
                                             self.max_vehicle_num, self.args.encoder_rnn_dim), dtype=np.float32)
         behavior_latent = np.zeros((self.args.batch_size_run, self.args.n_agents,
                                     self.max_vehicle_num, self.args.latent_dim), dtype=np.float32)
+        behavior_mu = np.zeros((self.args.batch_size_run, self.args.n_agents,
+                            self.max_vehicle_num, self.args.latent_dim), dtype=np.float32)
+        behavior_logvar = np.zeros((self.args.batch_size_run, self.args.n_agents,
+                            self.max_vehicle_num, self.args.latent_dim), dtype=np.float32)
 
         ####################
         # Prediction attention parameters
@@ -159,7 +163,9 @@ class ParallelRunner:
             "obs": obs,
             "history": single_history_out,
             "behavior_latent": behavior_latent,
-            "attention_latent": attention_latent
+            "attention_latent": attention_latent,
+            "behavior_mu": behavior_mu,
+            "behavior_logvar": behavior_logvar,
         }
         self.batch.update(pre_transition_data, ts=0)
 
@@ -227,8 +233,19 @@ class ParallelRunner:
             if self.args.Behavior_enable:
                 # Get the historical observation from the past few steps
                 history_out = self.history_wrapper.obs_history_output()
-                behavior_latent, behavior_encoder_rnn = \
-                    self.behavior_learner.latent_update(history_out, behavior_encoder_rnn, behavior_latent)
+
+                # If uncertainty aware behavior is enabled, output the behavior latent with the uncertainty parameters
+                if self.args.uncertainty_enable:
+                    behavior_latent, behavior_encoder_rnn, behavior_mu, behavior_logvar = \
+                        self.behavior_learner.latent_update(history_out, behavior_encoder_rnn, behavior_latent)
+                # Otherwise, output the behavior latent without the uncertainty parameters
+                else:
+                    behavior_latent, behavior_encoder_rnn = \
+                        self.behavior_learner.latent_update(history_out, behavior_encoder_rnn, behavior_latent)
+
+                    # Default the uncertainty parameters to zero if not enabled
+                    behavior_mu = np.zeros_like(behavior_latent)
+                    behavior_logvar = np.zeros_like(behavior_latent)
 
             # Process the observation and state for storage
             state, obs = self.history_wrapper.pure_obs_state_wrapper(state, obs)
@@ -252,7 +269,9 @@ class ParallelRunner:
                 "obs": obs,
                 "history": single_history_out,
                 "behavior_latent": behavior_latent,
-                "attention_latent": attention_latent
+                "attention_latent": attention_latent,
+                "behavior_mu": behavior_mu,
+                "behavior_logvar": behavior_logvar,
             }
 
 
