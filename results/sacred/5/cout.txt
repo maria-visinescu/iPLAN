@@ -1,0 +1,1631 @@
+EPISODE LIMIT IS  90
+Episode # 0  | Current time step:  512  | Average Episode Win Num:  0.375  | Average Episode Reward:  167.52816067560417  | Average Episode Length:  64.0
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  28.4  | Average Episode Speed:  22.90858
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.0  | Average Episode Speed:  24.5155
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.8  | Average Episode Speed:  23.613016
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  29.0  | Average Episode Speed:  22.02758
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.4  | Average Episode Speed:  23.51344
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.2  | Average Episode Speed:  23.595303
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.0  | Average Episode Speed:  24.584852
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  37.0  | Average Episode Speed:  22.946228
+--------------------------------
+Episode # 8  | Current time step:  849  | Average Episode Win Num:  0.125  | Average Episode Reward:  196.53979937843587  | Average Episode Length:  42.125
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  42.6  | Average Episode Speed:  21.050613
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.2  | Average Episode Speed:  24.36779
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  31.6  | Average Episode Speed:  22.922367
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.8  | Average Episode Speed:  24.119143
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.2  | Average Episode Speed:  24.79506
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.4  | Average Episode Speed:  24.722008
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.0  | Average Episode Speed:  24.759115
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.4  | Average Episode Speed:  24.469498
+--------------------------------
+Episode # 16  | Current time step:  1299  | Average Episode Win Num:  0.25  | Average Episode Reward:  175.22784373770207  | Average Episode Length:  56.25
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.6  | Average Episode Speed:  22.247475
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  51.4  | Average Episode Speed:  23.379316
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.8  | Average Episode Speed:  24.491367
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.4  | Average Episode Speed:  24.525269
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  29.4  | Average Episode Speed:  23.687208
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.4  | Average Episode Speed:  23.43018
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.0  | Average Episode Speed:  23.478783
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.8  | Average Episode Speed:  23.977213
+--------------------------------
+Episode # 24  | Current time step:  1711  | Average Episode Win Num:  0.125  | Average Episode Reward:  191.10656795157888  | Average Episode Length:  51.5
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.0  | Average Episode Speed:  24.172192
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.2  | Average Episode Speed:  24.316954
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.8  | Average Episode Speed:  24.700054
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.0  | Average Episode Speed:  23.021143
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  33.6  | Average Episode Speed:  22.958405
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.6  | Average Episode Speed:  24.62745
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  72.4  | Average Episode Speed:  24.771296
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  34.8  | Average Episode Speed:  22.206959
+--------------------------------
+Episode # 32  | Current time step:  2075  | Average Episode Win Num:  0.0  | Average Episode Reward:  180.32501208863755  | Average Episode Length:  45.5
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.4  | Average Episode Speed:  22.91795
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.6  | Average Episode Speed:  24.309526
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.6  | Average Episode Speed:  24.539402
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.8  | Average Episode Speed:  24.70306
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  33.0  | Average Episode Speed:  23.217373
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.0  | Average Episode Speed:  24.398384
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.4  | Average Episode Speed:  24.43571
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.6  | Average Episode Speed:  23.778706
+--------------------------------
+Episode # 40  | Current time step:  2433  | Average Episode Win Num:  0.0  | Average Episode Reward:  167.06375515193486  | Average Episode Length:  44.75
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  35.0  | Average Episode Speed:  8.997412
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.6  | Average Episode Speed:  16.195492
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.8  | Average Episode Speed:  16.59769
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.4  | Average Episode Speed:  18.602774
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.8  | Average Episode Speed:  16.76439
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.4  | Average Episode Speed:  18.423725
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.6  | Average Episode Speed:  18.770397
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.2  | Average Episode Speed:  16.417868
+--------------------------------
+Episode # 48  | Current time step:  2790  | Average Episode Win Num:  0.25  | Average Episode Reward:  163.66088977264792  | Average Episode Length:  44.625
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.0  | Average Episode Speed:  23.370136
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.0  | Average Episode Speed:  24.37051
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.0  | Average Episode Speed:  25.250837
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.0  | Average Episode Speed:  24.282934
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.8  | Average Episode Speed:  21.987982
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  39.8  | Average Episode Speed:  23.084621
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.8  | Average Episode Speed:  23.571726
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.4  | Average Episode Speed:  23.59711
+--------------------------------
+Episode # 56  | Current time step:  3262  | Average Episode Win Num:  0.125  | Average Episode Reward:  191.5128991544813  | Average Episode Length:  59.0
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.0  | Average Episode Speed:  24.056755
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.4  | Average Episode Speed:  24.12953
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.4  | Average Episode Speed:  25.135029
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.2  | Average Episode Speed:  23.923918
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  67.6  | Average Episode Speed:  24.69137
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.6  | Average Episode Speed:  23.564734
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  28.2  | Average Episode Speed:  23.987638
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.8  | Average Episode Speed:  24.273827
+--------------------------------
+Episode # 64  | Current time step:  3506  | Average Episode Win Num:  0.0  | Average Episode Reward:  146.16371491104331  | Average Episode Length:  30.5
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.4  | Average Episode Speed:  13.23956
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  82.2  | Average Episode Speed:  16.85672
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.4  | Average Episode Speed:  12.377532
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.8  | Average Episode Speed:  10.623209
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.6  | Average Episode Speed:  13.543188
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.2  | Average Episode Speed:  13.176207
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  69.0  | Average Episode Speed:  13.814028
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  46.0  | Average Episode Speed:  7.4319983
+--------------------------------
+Episode # 72  | Current time step:  3994  | Average Episode Win Num:  0.625  | Average Episode Reward:  162.2952962208086  | Average Episode Length:  61.0
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  38.4  | Average Episode Speed:  20.933773
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.8  | Average Episode Speed:  24.60738
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.8  | Average Episode Speed:  23.980007
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.6  | Average Episode Speed:  24.160915
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  28.4  | Average Episode Speed:  24.508183
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.2  | Average Episode Speed:  22.335222
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.6  | Average Episode Speed:  24.037212
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.2  | Average Episode Speed:  24.391195
+--------------------------------
+Episode # 80  | Current time step:  4455  | Average Episode Win Num:  0.5  | Average Episode Reward:  166.34120901451323  | Average Episode Length:  57.625
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.2  | Average Episode Speed:  24.232044
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  24.6  | Average Episode Speed:  22.772524
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.0  | Average Episode Speed:  24.442616
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  24.4  | Average Episode Speed:  22.30157
+--------------------------------
+Episode # 4  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  54.2  | Average Episode Speed:  24.149181
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.4  | Average Episode Speed:  24.924988
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  30.6  | Average Episode Speed:  23.560698
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.4  | Average Episode Speed:  23.862814
+--------------------------------
+Episode # 88  | Current time step:  4900  | Average Episode Win Num:  0.25  | Average Episode Reward:  166.87157011039957  | Average Episode Length:  55.625
+Behavior Loss 0  | Stability Loss 0  | Behavior Total Loss 0
+Prediction Loss 0
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  25.0  | Average Episode Speed:  21.872124
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.2  | Average Episode Speed:  24.742008
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.6  | Average Episode Speed:  23.831919
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.0  | Average Episode Speed:  23.824694
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.2  | Average Episode Speed:  23.191238
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  33.0  | Average Episode Speed:  23.627163
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.4  | Average Episode Speed:  23.98013
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  32.6  | Average Episode Speed:  23.792412
+--------------------------------
+Episode # 96  | Current time step:  5340  | Average Episode Win Num:  0.125  | Average Episode Reward:  186.92357679301597  | Average Episode Length:  55.0
+Behavior Loss 221.71802520751953  | Stability Loss 127.00675773620605  | Behavior Total Loss 221.7181625366211
+Prediction Loss 22.500019073486328
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.4  | Average Episode Speed:  24.051851
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.0  | Average Episode Speed:  23.716297
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.2  | Average Episode Speed:  24.420412
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  28.2  | Average Episode Speed:  23.736423
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  33.4  | Average Episode Speed:  24.117237
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  53.6  | Average Episode Speed:  23.776003
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  58.6  | Average Episode Speed:  25.0554
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  31.8  | Average Episode Speed:  22.917645
+--------------------------------
+Episode # 104  | Current time step:  5712  | Average Episode Win Num:  0.25  | Average Episode Reward:  174.43465871873622  | Average Episode Length:  46.5
+Behavior Loss 227.34502029418945  | Stability Loss 127.53921318054199  | Behavior Total Loss 227.34515762329102
+Prediction Loss 22.705931186676025
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.4  | Average Episode Speed:  24.611685
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  59.0  | Average Episode Speed:  25.112858
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.4  | Average Episode Speed:  24.46651
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.6  | Average Episode Speed:  23.903513
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  25.6  | Average Episode Speed:  20.859966
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  35.2  | Average Episode Speed:  23.70449
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.0  | Average Episode Speed:  24.625471
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  34.4  | Average Episode Speed:  23.326956
+--------------------------------
+Episode # 112  | Current time step:  6092  | Average Episode Win Num:  0.25  | Average Episode Reward:  188.68532808940387  | Average Episode Length:  47.5
+Behavior Loss 216.226167678833  | Stability Loss 126.78128051757812  | Behavior Total Loss 216.22630500793457
+Prediction Loss 22.69660520553589
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  69.8  | Average Episode Speed:  24.860834
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.6  | Average Episode Speed:  23.956633
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.0  | Average Episode Speed:  24.193312
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  67.2  | Average Episode Speed:  25.006113
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.6  | Average Episode Speed:  24.228142
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  32.8  | Average Episode Speed:  22.08518
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.4  | Average Episode Speed:  23.39818
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.6  | Average Episode Speed:  22.328575
+--------------------------------
+Episode # 120  | Current time step:  6419  | Average Episode Win Num:  0.0  | Average Episode Reward:  156.30119658424542  | Average Episode Length:  40.875
+Behavior Loss 198.25204849243164  | Stability Loss 123.89339065551758  | Behavior Total Loss 198.2521858215332
+Prediction Loss 22.409330129623413
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.6  | Average Episode Speed:  16.440912
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  65.6  | Average Episode Speed:  16.629827
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.8  | Average Episode Speed:  14.928522
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.8  | Average Episode Speed:  16.440466
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  48.2  | Average Episode Speed:  12.70165
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.2  | Average Episode Speed:  13.791806
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.4  | Average Episode Speed:  14.388657
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.4  | Average Episode Speed:  15.765597
+--------------------------------
+Episode # 128  | Current time step:  6834  | Average Episode Win Num:  0.25  | Average Episode Reward:  177.03811592846242  | Average Episode Length:  51.875
+Behavior Loss 216.09469604492188  | Stability Loss 123.58850479125977  | Behavior Total Loss 216.09483337402344
+Prediction Loss 22.70658826828003
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.2  | Average Episode Speed:  24.640749
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  34.4  | Average Episode Speed:  23.099003
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.2  | Average Episode Speed:  24.819796
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.6  | Average Episode Speed:  21.16089
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.8  | Average Episode Speed:  24.701368
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.0  | Average Episode Speed:  23.676035
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.4  | Average Episode Speed:  23.593777
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.8  | Average Episode Speed:  24.184727
+--------------------------------
+Episode # 136  | Current time step:  7297  | Average Episode Win Num:  0.25  | Average Episode Reward:  175.6184673174919  | Average Episode Length:  57.875
+Behavior Loss 200.4645233154297  | Stability Loss 113.62676811218262  | Behavior Total Loss 200.46466064453125
+Prediction Loss 20.94029402732849
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  30.0  | Average Episode Speed:  23.939053
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  41.0  | Average Episode Speed:  22.813778
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.0  | Average Episode Speed:  23.657444
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.6  | Average Episode Speed:  24.57081
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.4  | Average Episode Speed:  25.441235
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  34.0  | Average Episode Speed:  22.905298
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.6  | Average Episode Speed:  23.525309
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  29.8  | Average Episode Speed:  23.9802
+--------------------------------
+Episode # 144  | Current time step:  7592  | Average Episode Win Num:  0.125  | Average Episode Reward:  194.51721440097222  | Average Episode Length:  36.875
+Behavior Loss 200.81843376159668  | Stability Loss 121.49998092651367  | Behavior Total Loss 200.81857109069824
+Prediction Loss 22.114115476608276
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.6  | Average Episode Speed:  24.981543
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.4  | Average Episode Speed:  24.243404
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  34.6  | Average Episode Speed:  24.28915
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.8  | Average Episode Speed:  23.569561
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.4  | Average Episode Speed:  24.646288
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  64.2  | Average Episode Speed:  24.820301
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.2  | Average Episode Speed:  24.255915
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.8  | Average Episode Speed:  22.824322
+--------------------------------
+Episode # 152  | Current time step:  8013  | Average Episode Win Num:  0.125  | Average Episode Reward:  172.85983770682498  | Average Episode Length:  52.625
+Behavior Loss 207.1286506652832  | Stability Loss 119.50163078308105  | Behavior Total Loss 207.12878799438477
+Prediction Loss 22.249913454055786
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.6  | Average Episode Speed:  23.826496
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  34.0  | Average Episode Speed:  23.320322
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.2  | Average Episode Speed:  23.480883
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.6  | Average Episode Speed:  23.775684
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.2  | Average Episode Speed:  24.031775
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.8  | Average Episode Speed:  24.500843
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.4  | Average Episode Speed:  24.165882
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  29.8  | Average Episode Speed:  24.079718
+--------------------------------
+Episode # 160  | Current time step:  8454  | Average Episode Win Num:  0.25  | Average Episode Reward:  169.03442975652214  | Average Episode Length:  55.125
+Behavior Loss 204.63161277770996  | Stability Loss 117.4046630859375  | Behavior Total Loss 204.63175010681152
+Prediction Loss 21.609637022018433
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.2  | Average Episode Speed:  24.451006
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  28.0  | Average Episode Speed:  23.418066
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.4  | Average Episode Speed:  24.949045
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.6  | Average Episode Speed:  24.763859
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  35.4  | Average Episode Speed:  21.828777
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.2  | Average Episode Speed:  25.022264
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  32.6  | Average Episode Speed:  23.67763
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  34.6  | Average Episode Speed:  22.021748
+--------------------------------
+Episode # 168  | Current time step:  8825  | Average Episode Win Num:  0.0  | Average Episode Reward:  156.37048282261003  | Average Episode Length:  46.375
+Behavior Loss 185.6854248046875  | Stability Loss 119.2024974822998  | Behavior Total Loss 185.68556213378906
+Prediction Loss 22.06805682182312
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  67.0  | Average Episode Speed:  17.685246
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.8  | Average Episode Speed:  14.362211
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.0  | Average Episode Speed:  17.170162
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  38.0  | Average Episode Speed:  9.417076
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.6  | Average Episode Speed:  17.212433
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.2  | Average Episode Speed:  16.930283
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.0  | Average Episode Speed:  16.316525
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.0  | Average Episode Speed:  12.705984
+--------------------------------
+Episode # 176  | Current time step:  9171  | Average Episode Win Num:  0.125  | Average Episode Reward:  173.66959381111934  | Average Episode Length:  43.25
+Behavior Loss 195.79758071899414  | Stability Loss 113.97391128540039  | Behavior Total Loss 195.7977180480957
+Prediction Loss 21.420634746551514
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.0  | Average Episode Speed:  23.928001
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  44.8  | Average Episode Speed:  23.957657
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  29.4  | Average Episode Speed:  22.8115
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.6  | Average Episode Speed:  24.534624
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.4  | Average Episode Speed:  23.058659
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.6  | Average Episode Speed:  24.316652
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.6  | Average Episode Speed:  24.405428
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  65.4  | Average Episode Speed:  24.908237
+--------------------------------
+Episode # 184  | Current time step:  9483  | Average Episode Win Num:  0.0  | Average Episode Reward:  155.92198684234071  | Average Episode Length:  39.0
+Behavior Loss 182.62623023986816  | Stability Loss 114.98187255859375  | Behavior Total Loss 182.62636756896973
+Prediction Loss 23.576862573623657
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  58.2  | Average Episode Speed:  15.244509
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  59.6  | Average Episode Speed:  15.0592165
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  49.8  | Average Episode Speed:  9.819359
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  59.8  | Average Episode Speed:  15.935991
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.6  | Average Episode Speed:  13.61143
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  71.8  | Average Episode Speed:  17.431255
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.8  | Average Episode Speed:  14.328952
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.4  | Average Episode Speed:  13.560933
+--------------------------------
+Episode # 192  | Current time step:  9782  | Average Episode Win Num:  0.125  | Average Episode Reward:  177.0246003605533  | Average Episode Length:  37.375
+Behavior Loss 196.4587631225586  | Stability Loss 115.4296932220459  | Behavior Total Loss 196.45890045166016
+Prediction Loss 22.339902639389038
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.4  | Average Episode Speed:  23.6524
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.0  | Average Episode Speed:  23.919422
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  32.4  | Average Episode Speed:  24.850239
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  35.2  | Average Episode Speed:  22.703068
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.6  | Average Episode Speed:  24.405855
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.6  | Average Episode Speed:  24.502949
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  64.4  | Average Episode Speed:  24.549301
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.8  | Average Episode Speed:  24.00433
+--------------------------------
+Episode # 200  | Current time step:  10111  | Average Episode Win Num:  0.125  | Average Episode Reward:  200.2086378208793  | Average Episode Length:  41.125
+Behavior Loss 197.97517776489258  | Stability Loss 118.11496353149414  | Behavior Total Loss 197.97531509399414
+Prediction Loss 22.842266082763672
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  34.0  | Average Episode Speed:  23.209332
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.6  | Average Episode Speed:  23.690678
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.4  | Average Episode Speed:  24.27227
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.6  | Average Episode Speed:  24.348444
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  43.2  | Average Episode Speed:  21.784664
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.2  | Average Episode Speed:  24.19588
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.2  | Average Episode Speed:  24.344643
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  76.8  | Average Episode Speed:  24.617725
+--------------------------------
+Episode # 208  | Current time step:  10403  | Average Episode Win Num:  0.0  | Average Episode Reward:  151.16851739869728  | Average Episode Length:  36.5
+Behavior Loss 172.01076316833496  | Stability Loss 110.86127281188965  | Behavior Total Loss 172.01090049743652
+Prediction Loss 22.29469871520996
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.4  | Average Episode Speed:  14.539246
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.6  | Average Episode Speed:  16.320112
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  38.6  | Average Episode Speed:  7.9557924
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.4  | Average Episode Speed:  16.253836
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.4  | Average Episode Speed:  14.12278
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.2  | Average Episode Speed:  15.581891
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.6  | Average Episode Speed:  14.887935
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.2  | Average Episode Speed:  16.40101
+--------------------------------
+Episode # 216  | Current time step:  10817  | Average Episode Win Num:  0.25  | Average Episode Reward:  195.6335753050523  | Average Episode Length:  51.75
+Behavior Loss 192.9099826812744  | Stability Loss 114.78120613098145  | Behavior Total Loss 192.91012001037598
+Prediction Loss 22.346224546432495
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.0  | Average Episode Speed:  24.980558
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.0  | Average Episode Speed:  23.919657
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.2  | Average Episode Speed:  23.710405
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  49.2  | Average Episode Speed:  23.969715
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.2  | Average Episode Speed:  24.41756
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  36.0  | Average Episode Speed:  22.34785
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.2  | Average Episode Speed:  23.782911
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.2  | Average Episode Speed:  24.14439
+--------------------------------
+Episode # 224  | Current time step:  11108  | Average Episode Win Num:  0.25  | Average Episode Reward:  201.59812516384758  | Average Episode Length:  36.375
+Behavior Loss 186.3771457672119  | Stability Loss 111.3845443725586  | Behavior Total Loss 186.37728309631348
+Prediction Loss 21.924336194992065
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.6  | Average Episode Speed:  24.858583
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.8  | Average Episode Speed:  24.453873
+--------------------------------
+Episode # 2  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  41.6  | Average Episode Speed:  20.16183
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.6  | Average Episode Speed:  24.395855
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.0  | Average Episode Speed:  23.557901
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  27.0  | Average Episode Speed:  23.641636
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.4  | Average Episode Speed:  24.410732
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.2  | Average Episode Speed:  24.55151
+--------------------------------
+Episode # 232  | Current time step:  11570  | Average Episode Win Num:  0.375  | Average Episode Reward:  167.43593923588978  | Average Episode Length:  57.75
+Behavior Loss 184.35508728027344  | Stability Loss 106.54159545898438  | Behavior Total Loss 184.355224609375
+Prediction Loss 21.747967958450317
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.8  | Average Episode Speed:  25.018366
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  28.4  | Average Episode Speed:  24.433527
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  28.0  | Average Episode Speed:  22.96967
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  47.0  | Average Episode Speed:  23.937065
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  31.4  | Average Episode Speed:  23.01643
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  37.6  | Average Episode Speed:  24.41396
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  59.6  | Average Episode Speed:  24.580229
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.8  | Average Episode Speed:  22.8397
+--------------------------------
+Episode # 240  | Current time step:  11982  | Average Episode Win Num:  0.25  | Average Episode Reward:  182.67830119821582  | Average Episode Length:  51.5
+Behavior Loss 182.07423400878906  | Stability Loss 106.42449188232422  | Behavior Total Loss 182.07437133789062
+Prediction Loss 21.740846633911133
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.2  | Average Episode Speed:  24.026815
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  42.2  | Average Episode Speed:  23.626408
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.4  | Average Episode Speed:  25.10907
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.4  | Average Episode Speed:  23.019705
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.4  | Average Episode Speed:  24.532467
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.6  | Average Episode Speed:  24.662544
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.2  | Average Episode Speed:  22.20591
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.4  | Average Episode Speed:  24.396711
+--------------------------------
+TRAINING IPPO
+Episode # 248  | Current time step:  12433  | Average Episode Win Num:  0.375  | Average Episode Reward:  181.4995672765822  | Average Episode Length:  56.375
+Behavior Loss 176.71542167663574  | Stability Loss 108.63607025146484  | Behavior Total Loss 176.7155590057373
+Prediction Loss 21.78538227081299
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.4  | Average Episode Speed:  24.09502
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.4  | Average Episode Speed:  24.765863
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  31.0  | Average Episode Speed:  22.710016
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  32.2  | Average Episode Speed:  20.620703
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.0  | Average Episode Speed:  24.695127
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.8  | Average Episode Speed:  24.656715
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  41.4  | Average Episode Speed:  23.869568
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.0  | Average Episode Speed:  23.700481
+--------------------------------
+Episode # 256  | Current time step:  12983  | Average Episode Win Num:  0.5  | Average Episode Reward:  195.6605677469462  | Average Episode Length:  68.75
+Behavior Loss 175.68081283569336  | Stability Loss 106.55950355529785  | Behavior Total Loss 175.68095016479492
+Prediction Loss 21.933008432388306
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.0  | Average Episode Speed:  24.616627
+--------------------------------
+Episode # 1  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  46.0  | Average Episode Speed:  21.846766
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.0  | Average Episode Speed:  24.225262
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.6  | Average Episode Speed:  24.232296
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  46.2  | Average Episode Speed:  22.764515
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.0  | Average Episode Speed:  24.890806
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  46.2  | Average Episode Speed:  23.346968
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.6  | Average Episode Speed:  23.512243
+--------------------------------
+Episode # 264  | Current time step:  13322  | Average Episode Win Num:  0.0  | Average Episode Reward:  159.70627902533215  | Average Episode Length:  42.375
+Behavior Loss 162.60476112365723  | Stability Loss 101.94230651855469  | Behavior Total Loss 162.6048984527588
+Prediction Loss 20.653486728668213
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.0  | Average Episode Speed:  18.922329
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  69.0  | Average Episode Speed:  20.143467
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.8  | Average Episode Speed:  14.07514
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.6  | Average Episode Speed:  16.70516
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.0  | Average Episode Speed:  16.467497
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  40.6  | Average Episode Speed:  12.010534
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.8  | Average Episode Speed:  17.255741
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.0  | Average Episode Speed:  16.183466
+--------------------------------
+Episode # 272  | Current time step:  13696  | Average Episode Win Num:  0.125  | Average Episode Reward:  164.6892631720692  | Average Episode Length:  46.75
+Behavior Loss 176.4980068206787  | Stability Loss 102.48933219909668  | Behavior Total Loss 176.49814414978027
+Prediction Loss 22.49690055847168
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.0  | Average Episode Speed:  23.795023
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.8  | Average Episode Speed:  24.93806
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.6  | Average Episode Speed:  22.887384
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.0  | Average Episode Speed:  24.576738
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  34.0  | Average Episode Speed:  23.906918
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.8  | Average Episode Speed:  23.917934
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.8  | Average Episode Speed:  24.259537
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.4  | Average Episode Speed:  22.948933
+--------------------------------
+Episode # 280  | Current time step:  14110  | Average Episode Win Num:  0.125  | Average Episode Reward:  182.284831621227  | Average Episode Length:  51.75
+Behavior Loss 176.75411224365234  | Stability Loss 100.69230461120605  | Behavior Total Loss 176.75424766540527
+Prediction Loss 21.505925178527832
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.6  | Average Episode Speed:  24.315882
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.6  | Average Episode Speed:  24.370451
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  33.0  | Average Episode Speed:  24.469095
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  32.4  | Average Episode Speed:  24.369719
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.2  | Average Episode Speed:  23.38058
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  59.6  | Average Episode Speed:  23.88053
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  67.4  | Average Episode Speed:  24.635023
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  34.4  | Average Episode Speed:  23.822254
+--------------------------------
+Episode # 288  | Current time step:  14489  | Average Episode Win Num:  0.25  | Average Episode Reward:  201.07227576631612  | Average Episode Length:  47.375
+Behavior Loss 162.14069938659668  | Stability Loss 103.13194847106934  | Behavior Total Loss 162.14083290100098
+Prediction Loss 21.672837734222412
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.4  | Average Episode Speed:  22.828053
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  23.2  | Average Episode Speed:  20.836937
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.6  | Average Episode Speed:  24.619007
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.8  | Average Episode Speed:  24.799051
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  78.4  | Average Episode Speed:  24.820145
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.2  | Average Episode Speed:  24.274473
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.6  | Average Episode Speed:  24.32395
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.8  | Average Episode Speed:  24.56422
+--------------------------------
+Episode # 296  | Current time step:  14885  | Average Episode Win Num:  0.0  | Average Episode Reward:  190.49919680025218  | Average Episode Length:  49.5
+Behavior Loss 170.39888191223145  | Stability Loss 100.70184898376465  | Behavior Total Loss 170.39901733398438
+Prediction Loss 22.639487743377686
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.8  | Average Episode Speed:  21.775446
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.6  | Average Episode Speed:  20.534714
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  59.2  | Average Episode Speed:  21.69124
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.8  | Average Episode Speed:  18.831722
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.0  | Average Episode Speed:  21.224686
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.4  | Average Episode Speed:  17.384317
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.6  | Average Episode Speed:  20.944199
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  50.4  | Average Episode Speed:  19.58501
+--------------------------------
+Episode # 304  | Current time step:  15206  | Average Episode Win Num:  0.0  | Average Episode Reward:  114.26045009231456  | Average Episode Length:  40.125
+Behavior Loss 119.30241584777832  | Stability Loss 85.38896656036377  | Behavior Total Loss 119.30255317687988
+Prediction Loss 22.53618621826172
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  78.0  | Average Episode Speed:  11.787641
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.0  | Average Episode Speed:  8.458879
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  64.4  | Average Episode Speed:  9.098604
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  65.8  | Average Episode Speed:  8.972339
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  68.6  | Average Episode Speed:  10.239568
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  59.6  | Average Episode Speed:  6.287567
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  64.2  | Average Episode Speed:  8.844199
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.4  | Average Episode Speed:  8.534069
+--------------------------------
+Episode # 312  | Current time step:  15691  | Average Episode Win Num:  0.5  | Average Episode Reward:  189.85391388700288  | Average Episode Length:  60.625
+Behavior Loss 155.21796417236328  | Stability Loss 96.28076362609863  | Behavior Total Loss 155.2180995941162
+Prediction Loss 20.761324167251587
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  65.4  | Average Episode Speed:  24.573135
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  58.4  | Average Episode Speed:  24.693277
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  29.6  | Average Episode Speed:  22.98582
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.0  | Average Episode Speed:  24.22593
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  31.8  | Average Episode Speed:  23.12896
+--------------------------------
+Episode # 5  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  45.0  | Average Episode Speed:  22.85226
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  34.6  | Average Episode Speed:  22.61787
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.4  | Average Episode Speed:  24.131681
+--------------------------------
+Episode # 320  | Current time step:  16218  | Average Episode Win Num:  0.25  | Average Episode Reward:  195.81910106054858  | Average Episode Length:  65.875
+Behavior Loss 159.48449897766113  | Stability Loss 97.7026309967041  | Behavior Total Loss 159.48463439941406
+Prediction Loss 20.46821880340576
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.4  | Average Episode Speed:  24.56485
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  69.0  | Average Episode Speed:  24.66142
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.4  | Average Episode Speed:  23.799839
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  37.2  | Average Episode Speed:  23.496553
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  26.8  | Average Episode Speed:  24.180716
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  37.6  | Average Episode Speed:  19.400152
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.4  | Average Episode Speed:  23.698057
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.0  | Average Episode Speed:  23.944202
+--------------------------------
+Episode # 328  | Current time step:  16592  | Average Episode Win Num:  0.25  | Average Episode Reward:  189.719032622391  | Average Episode Length:  46.75
+Behavior Loss 163.14137840270996  | Stability Loss 97.27788162231445  | Behavior Total Loss 163.1415138244629
+Prediction Loss 22.06978130340576
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  42.8  | Average Episode Speed:  23.100225
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.8  | Average Episode Speed:  23.365738
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.6  | Average Episode Speed:  24.40805
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.8  | Average Episode Speed:  24.603739
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.8  | Average Episode Speed:  23.71434
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.4  | Average Episode Speed:  24.670156
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.2  | Average Episode Speed:  24.090282
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.2  | Average Episode Speed:  24.46175
+--------------------------------
+Episode # 336  | Current time step:  16858  | Average Episode Win Num:  0.0  | Average Episode Reward:  147.78825019423456  | Average Episode Length:  33.25
+Behavior Loss 148.20539474487305  | Stability Loss 96.71643924713135  | Behavior Total Loss 148.2055320739746
+Prediction Loss 23.61750078201294
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  65.8  | Average Episode Speed:  16.100811
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.2  | Average Episode Speed:  14.088417
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  69.0  | Average Episode Speed:  15.955755
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  42.8  | Average Episode Speed:  8.16668
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.2  | Average Episode Speed:  13.558495
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  58.0  | Average Episode Speed:  14.931557
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  58.8  | Average Episode Speed:  14.967145
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.2  | Average Episode Speed:  14.043245
+--------------------------------
+Episode # 344  | Current time step:  17244  | Average Episode Win Num:  0.125  | Average Episode Reward:  192.10718454739487  | Average Episode Length:  48.25
+Behavior Loss 167.41262245178223  | Stability Loss 98.20352935791016  | Behavior Total Loss 167.41275787353516
+Prediction Loss 21.243685245513916
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.6  | Average Episode Speed:  24.015835
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.6  | Average Episode Speed:  24.734772
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  64.6  | Average Episode Speed:  24.64715
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.4  | Average Episode Speed:  23.989826
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  32.4  | Average Episode Speed:  24.122494
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.4  | Average Episode Speed:  24.64365
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.0  | Average Episode Speed:  23.46065
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  36.6  | Average Episode Speed:  22.259207
+--------------------------------
+Episode # 352  | Current time step:  17548  | Average Episode Win Num:  0.125  | Average Episode Reward:  185.30254501143048  | Average Episode Length:  38.0
+Behavior Loss 171.82456588745117  | Stability Loss 99.34034729003906  | Behavior Total Loss 171.8247013092041
+Prediction Loss 22.846078157424927
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.0  | Average Episode Speed:  24.539822
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.4  | Average Episode Speed:  24.53587
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.8  | Average Episode Speed:  23.505123
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  25.2  | Average Episode Speed:  22.823713
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.2  | Average Episode Speed:  23.759207
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.8  | Average Episode Speed:  24.032757
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.2  | Average Episode Speed:  24.189388
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.6  | Average Episode Speed:  23.262417
+--------------------------------
+Episode # 360  | Current time step:  17834  | Average Episode Win Num:  0.125  | Average Episode Reward:  203.10784365604457  | Average Episode Length:  35.75
+Behavior Loss 156.3603000640869  | Stability Loss 95.98750495910645  | Behavior Total Loss 156.36043548583984
+Prediction Loss 21.511564254760742
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.0  | Average Episode Speed:  24.574444
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.4  | Average Episode Speed:  21.201313
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.6  | Average Episode Speed:  23.59618
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.2  | Average Episode Speed:  24.064627
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  63.2  | Average Episode Speed:  24.048624
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.8  | Average Episode Speed:  24.66779
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.8  | Average Episode Speed:  24.48148
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.6  | Average Episode Speed:  24.226263
+--------------------------------
+Episode # 368  | Current time step:  18324  | Average Episode Win Num:  0.5  | Average Episode Reward:  168.06043972420656  | Average Episode Length:  61.25
+Behavior Loss 150.89315223693848  | Stability Loss 92.47027492523193  | Behavior Total Loss 150.89328956604004
+Prediction Loss 21.383122444152832
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.4  | Average Episode Speed:  24.553877
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  53.8  | Average Episode Speed:  24.376286
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.2  | Average Episode Speed:  24.348553
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  21.6  | Average Episode Speed:  19.501728
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.0  | Average Episode Speed:  22.27832
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.2  | Average Episode Speed:  24.311893
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.8  | Average Episode Speed:  24.586536
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  41.8  | Average Episode Speed:  22.62547
+--------------------------------
+Episode # 376  | Current time step:  18578  | Average Episode Win Num:  0.0  | Average Episode Reward:  125.97398302490691  | Average Episode Length:  31.75
+Behavior Loss 116.50426959991455  | Stability Loss 80.92070484161377  | Behavior Total Loss 116.50440788269043
+Prediction Loss 23.564972162246704
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  64.4  | Average Episode Speed:  9.737996
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  71.0  | Average Episode Speed:  10.62602
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  73.2  | Average Episode Speed:  10.728368
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  70.0  | Average Episode Speed:  9.84036
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  65.0  | Average Episode Speed:  8.667052
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  70.4  | Average Episode Speed:  10.985606
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  67.2  | Average Episode Speed:  9.852743
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  68.0  | Average Episode Speed:  10.030821
+--------------------------------
+Episode # 384  | Current time step:  19046  | Average Episode Win Num:  0.875  | Average Episode Reward:  192.92036918794062  | Average Episode Length:  58.5
+Behavior Loss 151.1297206878662  | Stability Loss 92.1270055770874  | Behavior Total Loss 151.12985801696777
+Prediction Loss 21.22483515739441
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.2  | Average Episode Speed:  24.48627
+--------------------------------
+Episode # 1  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  46.2  | Average Episode Speed:  20.49837
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.0  | Average Episode Speed:  24.685364
+--------------------------------
+Episode # 3  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  48.4  | Average Episode Speed:  22.207516
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.8  | Average Episode Speed:  24.099367
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.2  | Average Episode Speed:  23.707062
+--------------------------------
+Episode # 6  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  56.0  | Average Episode Speed:  24.636868
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.6  | Average Episode Speed:  24.42685
+--------------------------------
+Episode # 392  | Current time step:  19440  | Average Episode Win Num:  0.125  | Average Episode Reward:  184.41513248603468  | Average Episode Length:  49.25
+Behavior Loss 161.87548065185547  | Stability Loss 94.35857486724854  | Behavior Total Loss 161.8756160736084
+Prediction Loss 21.98398995399475
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  32.2  | Average Episode Speed:  24.246971
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.0  | Average Episode Speed:  24.521938
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.2  | Average Episode Speed:  24.34973
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.4  | Average Episode Speed:  24.137386
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.4  | Average Episode Speed:  24.355148
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.6  | Average Episode Speed:  24.056118
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.4  | Average Episode Speed:  25.03528
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.0  | Average Episode Speed:  24.302317
+--------------------------------
+Episode # 400  | Current time step:  19973  | Average Episode Win Num:  0.25  | Average Episode Reward:  183.21362258984414  | Average Episode Length:  66.625
+Behavior Loss 149.92351531982422  | Stability Loss 87.5244197845459  | Behavior Total Loss 149.92365264892578
+Prediction Loss 20.30720829963684
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.0  | Average Episode Speed:  24.431417
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  33.4  | Average Episode Speed:  23.592884
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.4  | Average Episode Speed:  24.798178
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.8  | Average Episode Speed:  24.054562
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  57.4  | Average Episode Speed:  25.223156
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.4  | Average Episode Speed:  24.008493
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  33.8  | Average Episode Speed:  23.137875
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  29.6  | Average Episode Speed:  22.502024
+--------------------------------
+Episode # 408  | Current time step:  20367  | Average Episode Win Num:  0.125  | Average Episode Reward:  199.17980804671885  | Average Episode Length:  49.25
+Behavior Loss 159.27281379699707  | Stability Loss 93.19862174987793  | Behavior Total Loss 159.27294921875
+Prediction Loss 21.98583436012268
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.2  | Average Episode Speed:  23.783731
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.2  | Average Episode Speed:  24.79183
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  34.6  | Average Episode Speed:  24.200954
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.4  | Average Episode Speed:  24.222239
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.0  | Average Episode Speed:  24.445118
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.8  | Average Episode Speed:  24.314121
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.4  | Average Episode Speed:  23.969957
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  59.0  | Average Episode Speed:  24.658594
+--------------------------------
+Episode # 416  | Current time step:  20726  | Average Episode Win Num:  0.25  | Average Episode Reward:  184.79602185411  | Average Episode Length:  44.875
+Behavior Loss 157.43509101867676  | Stability Loss 90.89950656890869  | Behavior Total Loss 157.4352264404297
+Prediction Loss 22.10352087020874
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  33.2  | Average Episode Speed:  24.156952
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.8  | Average Episode Speed:  24.055878
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.4  | Average Episode Speed:  23.816566
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.6  | Average Episode Speed:  24.049555
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  25.0  | Average Episode Speed:  22.907185
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  41.2  | Average Episode Speed:  23.762758
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.0  | Average Episode Speed:  23.805874
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.0  | Average Episode Speed:  24.403046
+--------------------------------
+Episode # 424  | Current time step:  21144  | Average Episode Win Num:  0.25  | Average Episode Reward:  173.07408054937514  | Average Episode Length:  52.25
+Behavior Loss 147.2864112854004  | Stability Loss 85.54608249664307  | Behavior Total Loss 147.28654861450195
+Prediction Loss 21.39338445663452
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.6  | Average Episode Speed:  23.856861
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.2  | Average Episode Speed:  24.084156
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.6  | Average Episode Speed:  24.368246
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.4  | Average Episode Speed:  24.079819
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.0  | Average Episode Speed:  23.941372
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  29.6  | Average Episode Speed:  22.355959
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.0  | Average Episode Speed:  23.550413
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.8  | Average Episode Speed:  21.568151
+--------------------------------
+Episode # 432  | Current time step:  21534  | Average Episode Win Num:  0.0  | Average Episode Reward:  138.10943773556284  | Average Episode Length:  48.75
+Behavior Loss 125.95587730407715  | Stability Loss 82.0340633392334  | Behavior Total Loss 125.95601463317871
+Prediction Loss 21.142122507095337
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  54.4  | Average Episode Speed:  11.711634
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  51.0  | Average Episode Speed:  13.296239
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.2  | Average Episode Speed:  10.863165
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  58.8  | Average Episode Speed:  14.685657
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.4  | Average Episode Speed:  16.500225
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.2  | Average Episode Speed:  15.287676
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.2  | Average Episode Speed:  10.574925
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.4  | Average Episode Speed:  11.178065
+--------------------------------
+Episode # 440  | Current time step:  21847  | Average Episode Win Num:  0.125  | Average Episode Reward:  188.97088176709826  | Average Episode Length:  39.125
+Behavior Loss 156.06812858581543  | Stability Loss 91.27269649505615  | Behavior Total Loss 156.06826400756836
+Prediction Loss 21.44584608078003
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.2  | Average Episode Speed:  24.340698
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.0  | Average Episode Speed:  23.992727
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  36.8  | Average Episode Speed:  22.740788
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.8  | Average Episode Speed:  24.65368
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.0  | Average Episode Speed:  23.763603
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.2  | Average Episode Speed:  24.071276
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.8  | Average Episode Speed:  24.250378
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.2  | Average Episode Speed:  23.114185
+--------------------------------
+Episode # 448  | Current time step:  22292  | Average Episode Win Num:  0.25  | Average Episode Reward:  192.40026425666753  | Average Episode Length:  55.625
+Behavior Loss 141.03972053527832  | Stability Loss 84.35663032531738  | Behavior Total Loss 141.03985786437988
+Prediction Loss 21.125059843063354
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.0  | Average Episode Speed:  23.162073
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.4  | Average Episode Speed:  24.159937
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.4  | Average Episode Speed:  23.68599
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  37.4  | Average Episode Speed:  24.559912
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.0  | Average Episode Speed:  24.810505
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.4  | Average Episode Speed:  24.497278
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.6  | Average Episode Speed:  24.111187
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  66.6  | Average Episode Speed:  23.834213
+--------------------------------
+Episode # 456  | Current time step:  22757  | Average Episode Win Num:  0.375  | Average Episode Reward:  205.22926852814194  | Average Episode Length:  58.125
+Behavior Loss 142.68628692626953  | Stability Loss 83.5620527267456  | Behavior Total Loss 142.6864242553711
+Prediction Loss 21.2122700214386
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  43.6  | Average Episode Speed:  22.640419
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.2  | Average Episode Speed:  23.623726
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.4  | Average Episode Speed:  24.090391
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.4  | Average Episode Speed:  24.252148
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  39.4  | Average Episode Speed:  22.371004
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.8  | Average Episode Speed:  24.588673
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.2  | Average Episode Speed:  23.438305
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  47.6  | Average Episode Speed:  24.947733
+--------------------------------
+Episode # 464  | Current time step:  23192  | Average Episode Win Num:  0.25  | Average Episode Reward:  189.1292324596301  | Average Episode Length:  54.375
+Behavior Loss 145.19876098632812  | Stability Loss 88.10493850708008  | Behavior Total Loss 145.1988983154297
+Prediction Loss 20.197272300720215
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.8  | Average Episode Speed:  24.250212
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.2  | Average Episode Speed:  24.178804
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.6  | Average Episode Speed:  23.938068
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.4  | Average Episode Speed:  25.25369
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  73.0  | Average Episode Speed:  24.581556
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  40.6  | Average Episode Speed:  24.193213
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.6  | Average Episode Speed:  23.980692
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  38.4  | Average Episode Speed:  21.974781
+--------------------------------
+Episode # 472  | Current time step:  23556  | Average Episode Win Num:  0.125  | Average Episode Reward:  173.3516095194139  | Average Episode Length:  45.5
+Behavior Loss 151.2245979309082  | Stability Loss 90.56876468658447  | Behavior Total Loss 151.22473335266113
+Prediction Loss 21.64033603668213
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.6  | Average Episode Speed:  24.48743
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  36.2  | Average Episode Speed:  21.56578
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  34.4  | Average Episode Speed:  23.226368
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.2  | Average Episode Speed:  24.494698
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.8  | Average Episode Speed:  23.953537
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.4  | Average Episode Speed:  24.343288
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  32.2  | Average Episode Speed:  22.77956
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.2  | Average Episode Speed:  23.980482
+--------------------------------
+Episode # 480  | Current time step:  24068  | Average Episode Win Num:  0.5  | Average Episode Reward:  170.0192726542679  | Average Episode Length:  64.0
+Behavior Loss 140.84807205200195  | Stability Loss 82.62698745727539  | Behavior Total Loss 140.84820938110352
+Prediction Loss 19.85877561569214
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.6  | Average Episode Speed:  22.149143
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.4  | Average Episode Speed:  24.913467
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.2  | Average Episode Speed:  24.38248
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.4  | Average Episode Speed:  23.188978
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  43.8  | Average Episode Speed:  23.655516
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.6  | Average Episode Speed:  22.956045
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.2  | Average Episode Speed:  24.326319
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.6  | Average Episode Speed:  24.049809
+--------------------------------
+Episode # 488  | Current time step:  24439  | Average Episode Win Num:  0.125  | Average Episode Reward:  184.60131830747457  | Average Episode Length:  46.375
+Behavior Loss 140.2808494567871  | Stability Loss 82.85630702972412  | Behavior Total Loss 140.28098678588867
+Prediction Loss 20.898457288742065
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.0  | Average Episode Speed:  23.064531
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.6  | Average Episode Speed:  24.15024
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.0  | Average Episode Speed:  23.976622
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.8  | Average Episode Speed:  25.20881
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  29.4  | Average Episode Speed:  23.703274
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  60.2  | Average Episode Speed:  24.361582
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.2  | Average Episode Speed:  23.394897
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.4  | Average Episode Speed:  24.751183
+--------------------------------
+Episode # 496  | Current time step:  24769  | Average Episode Win Num:  0.25  | Average Episode Reward:  194.62244331048737  | Average Episode Length:  41.25
+Behavior Loss 141.34695053100586  | Stability Loss 86.58535671234131  | Behavior Total Loss 141.34708786010742
+Prediction Loss 21.82438063621521
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.8  | Average Episode Speed:  23.490826
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.0  | Average Episode Speed:  24.389086
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  29.2  | Average Episode Speed:  23.445423
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.6  | Average Episode Speed:  25.166983
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  56.4  | Average Episode Speed:  24.820736
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.6  | Average Episode Speed:  24.662724
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  42.0  | Average Episode Speed:  23.73533
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.2  | Average Episode Speed:  24.558727
+--------------------------------
+TRAINING IPPO
+Episode # 504  | Current time step:  25145  | Average Episode Win Num:  0.125  | Average Episode Reward:  181.9335793717599  | Average Episode Length:  47.0
+Behavior Loss 143.982421875  | Stability Loss 86.57063102722168  | Behavior Total Loss 143.98255920410156
+Prediction Loss 21.229820251464844
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.2  | Average Episode Speed:  22.092766
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.6  | Average Episode Speed:  24.026524
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.2  | Average Episode Speed:  24.356405
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.2  | Average Episode Speed:  24.443172
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  36.2  | Average Episode Speed:  23.482124
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.8  | Average Episode Speed:  24.135689
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.8  | Average Episode Speed:  24.318518
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.6  | Average Episode Speed:  24.24199
+--------------------------------
+Episode # 512  | Current time step:  25717  | Average Episode Win Num:  0.625  | Average Episode Reward:  178.05043922826505  | Average Episode Length:  71.5
+Behavior Loss 126.43775177001953  | Stability Loss 79.40940761566162  | Behavior Total Loss 126.4378890991211
+Prediction Loss 19.466376066207886
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  39.0  | Average Episode Speed:  24.203007
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  50.4  | Average Episode Speed:  22.711163
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  43.6  | Average Episode Speed:  24.19985
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  36.8  | Average Episode Speed:  21.689363
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  35.0  | Average Episode Speed:  18.274445
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.8  | Average Episode Speed:  22.142904
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.2  | Average Episode Speed:  23.921535
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  55.6  | Average Episode Speed:  23.901768
+--------------------------------
+Episode # 520  | Current time step:  26069  | Average Episode Win Num:  0.375  | Average Episode Reward:  186.16248672865905  | Average Episode Length:  44.0
+Behavior Loss 148.427734375  | Stability Loss 86.81539154052734  | Behavior Total Loss 148.4278736114502
+Prediction Loss 20.98553490638733
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  67.0  | Average Episode Speed:  24.567202
+--------------------------------
+Episode # 1  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  47.2  | Average Episode Speed:  22.514193
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.2  | Average Episode Speed:  23.740376
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  26.6  | Average Episode Speed:  22.609898
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.8  | Average Episode Speed:  24.38833
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  30.2  | Average Episode Speed:  22.683855
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.6  | Average Episode Speed:  25.161198
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.2  | Average Episode Speed:  24.38402
+--------------------------------
+Episode # 528  | Current time step:  26486  | Average Episode Win Num:  0.375  | Average Episode Reward:  170.2547034015559  | Average Episode Length:  52.125
+Behavior Loss 139.78418159484863  | Stability Loss 82.69739055633545  | Behavior Total Loss 139.7843189239502
+Prediction Loss 19.880979537963867
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  31.4  | Average Episode Speed:  21.91897
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.0  | Average Episode Speed:  23.876118
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  26.6  | Average Episode Speed:  23.199345
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.2  | Average Episode Speed:  23.361744
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.2  | Average Episode Speed:  24.505512
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.8  | Average Episode Speed:  24.167856
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  32.6  | Average Episode Speed:  23.093678
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  45.2  | Average Episode Speed:  24.327436
+--------------------------------
+Episode # 536  | Current time step:  26998  | Average Episode Win Num:  0.625  | Average Episode Reward:  199.10156756222665  | Average Episode Length:  64.0
+Behavior Loss 137.24925994873047  | Stability Loss 81.185378074646  | Behavior Total Loss 137.24939918518066
+Prediction Loss 20.96687936782837
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  48.4  | Average Episode Speed:  24.111595
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.8  | Average Episode Speed:  22.914673
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  42.6  | Average Episode Speed:  24.274368
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  40.6  | Average Episode Speed:  23.492094
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.6  | Average Episode Speed:  23.627172
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.4  | Average Episode Speed:  24.311565
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.0  | Average Episode Speed:  24.23618
+--------------------------------
+Episode # 7  | Average Episode Win Num:  3.0  | Average Episode Survival Time:  65.2  | Average Episode Speed:  22.3612
+--------------------------------
+Episode # 544  | Current time step:  27533  | Average Episode Win Num:  0.625  | Average Episode Reward:  189.7236173462365  | Average Episode Length:  66.875
+Behavior Loss 137.55576133728027  | Stability Loss 83.50186061859131  | Behavior Total Loss 137.55589866638184
+Prediction Loss 20.533427476882935
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  40.2  | Average Episode Speed:  22.574032
+--------------------------------
+Episode # 1  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  62.6  | Average Episode Speed:  24.25529
+--------------------------------
+Episode # 2  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  43.8  | Average Episode Speed:  22.72676
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  35.8  | Average Episode Speed:  23.899029
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  38.4  | Average Episode Speed:  24.359282
+--------------------------------
+Episode # 5  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.2  | Average Episode Speed:  22.668386
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.8  | Average Episode Speed:  23.59359
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.6  | Average Episode Speed:  23.878653
+--------------------------------
+Episode # 552  | Current time step:  27998  | Average Episode Win Num:  0.375  | Average Episode Reward:  187.64721165237077  | Average Episode Length:  58.125
+Behavior Loss 135.09818840026855  | Stability Loss 80.89967250823975  | Behavior Total Loss 135.09832572937012
+Prediction Loss 21.22278594970703
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  33.0  | Average Episode Speed:  22.684402
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  26.2  | Average Episode Speed:  21.566212
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  41.2  | Average Episode Speed:  24.267155
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  39.6  | Average Episode Speed:  23.15984
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.0  | Average Episode Speed:  23.868437
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.0  | Average Episode Speed:  23.799438
+--------------------------------
+Episode # 6  | Average Episode Win Num:  2.0  | Average Episode Survival Time:  67.6  | Average Episode Speed:  22.896029
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  68.4  | Average Episode Speed:  24.597967
+--------------------------------
+Episode # 560  | Current time step:  28637  | Average Episode Win Num:  0.625  | Average Episode Reward:  164.14777444170898  | Average Episode Length:  79.875
+Behavior Loss 130.04201889038086  | Stability Loss 73.92598628997803  | Behavior Total Loss 130.04215621948242
+Prediction Loss 19.732453107833862
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  30.0  | Average Episode Speed:  20.836105
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  44.0  | Average Episode Speed:  23.807583
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  42.6  | Average Episode Speed:  22.570814
+--------------------------------
+Episode # 3  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  28.2  | Average Episode Speed:  21.865582
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  31.8  | Average Episode Speed:  22.461742
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  32.6  | Average Episode Speed:  22.822393
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  35.4  | Average Episode Speed:  22.847118
+--------------------------------
+Episode # 7  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  55.8  | Average Episode Speed:  23.814203
+--------------------------------
+Episode # 568  | Current time step:  29038  | Average Episode Win Num:  0.25  | Average Episode Reward:  203.89312789833934  | Average Episode Length:  50.125
+Behavior Loss 150.24794387817383  | Stability Loss 87.72102069854736  | Behavior Total Loss 150.24808311462402
+Prediction Loss 21.579030990600586
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  37.6  | Average Episode Speed:  24.337706
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  35.6  | Average Episode Speed:  23.018576
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.2  | Average Episode Speed:  23.819218
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  61.6  | Average Episode Speed:  24.098366
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  52.0  | Average Episode Speed:  25.163876
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  57.2  | Average Episode Speed:  24.662561
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  54.6  | Average Episode Speed:  24.24821
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  33.4  | Average Episode Speed:  23.608057
+--------------------------------
+Episode # 576  | Current time step:  29409  | Average Episode Win Num:  0.25  | Average Episode Reward:  190.66279417328155  | Average Episode Length:  46.375
+Behavior Loss 144.63662910461426  | Stability Loss 88.05193424224854  | Behavior Total Loss 144.63676834106445
+Prediction Loss 20.820339918136597
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  44.2  | Average Episode Speed:  24.246334
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  27.2  | Average Episode Speed:  21.167707
+--------------------------------
+Episode # 2  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  49.2  | Average Episode Speed:  23.49267
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.0  | Average Episode Speed:  23.831516
+--------------------------------
+Episode # 4  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  37.0  | Average Episode Speed:  21.23528
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  68.2  | Average Episode Speed:  24.456757
+--------------------------------
+Episode # 6  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.6  | Average Episode Speed:  24.412405
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  50.6  | Average Episode Speed:  24.098316
+--------------------------------
+Episode # 584  | Current time step:  29837  | Average Episode Win Num:  0.375  | Average Episode Reward:  188.7598307328302  | Average Episode Length:  53.5
+Behavior Loss 135.75924491882324  | Stability Loss 80.93594551086426  | Behavior Total Loss 135.7593822479248
+Prediction Loss 20.572311878204346
+--------------------------------
+Navigation Metrics Print
+--------------------------------
+Episode # 0  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.4  | Average Episode Speed:  23.931196
+--------------------------------
+Episode # 1  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  37.0  | Average Episode Speed:  23.685234
+--------------------------------
+Episode # 2  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  34.0  | Average Episode Speed:  21.384443
+--------------------------------
+Episode # 3  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  53.8  | Average Episode Speed:  24.33273
+--------------------------------
+Episode # 4  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  45.4  | Average Episode Speed:  24.2757
+--------------------------------
+Episode # 5  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  52.2  | Average Episode Speed:  23.66875
+--------------------------------
+Episode # 6  | Average Episode Win Num:  1.0  | Average Episode Survival Time:  36.4  | Average Episode Speed:  23.247538
+--------------------------------
+Episode # 7  | Average Episode Win Num:  0.0  | Average Episode Survival Time:  46.6  | Average Episode Speed:  23.501568
+--------------------------------
