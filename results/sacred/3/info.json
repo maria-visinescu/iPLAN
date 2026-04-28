@@ -1,0 +1,2692 @@
+{
+  "episode": [
+    40,
+    88,
+    136,
+    184,
+    232,
+    280,
+    320,
+    360,
+    400,
+    440,
+    488,
+    528,
+    560
+  ],
+  "episode_T": [
+    2171,
+    4281,
+    6621,
+    8744,
+    11032,
+    13276,
+    15312,
+    17805,
+    20000,
+    22258,
+    24656,
+    26915,
+    28967
+  ],
+  "ippo_GAT_behavior_stable_H_Average episode_len": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 46.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 41.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 37.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 52.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 53.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 40.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 49.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 32.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 48.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 55.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 41.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 36.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 51.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 49.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 49.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 44.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 41.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 56.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 39.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 51.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 45.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 59.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 33.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 37.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 42.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 63.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 31.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 45.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 52.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 49.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 56.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 50.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 35.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 41.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 54.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 42.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 65.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 35.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 46.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 47.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 60.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 50.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 65.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 50.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 73.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 71.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 45.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 58.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 62.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 43.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 64.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 65.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 48.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 56.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 62.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 50.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 63.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 26.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 56.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 54.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 46.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 52.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 51.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 53.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 71.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 56.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 49.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 58.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 59.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 73.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 65.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 83.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 71.0
+    }
+  ],
+  "ippo_GAT_behavior_stable_H_Average episode_len_T": [
+    369,
+    699,
+    995,
+    1416,
+    1847,
+    2171,
+    2568,
+    2827,
+    3212,
+    3653,
+    3987,
+    4281,
+    4692,
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632,
+    30200
+  ],
+  "ippo_GAT_behavior_stable_H_Average episode_reward": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 189.08771277265447
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 165.8456863329178
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 165.71691897797425
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 160.38543944462782
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 171.59908488693426
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 181.79786510309515
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 159.5273456103772
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 184.41759430974864
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 173.0171569288067
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 186.48717194040853
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 170.72249354912262
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 166.53426371335496
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 169.7922269776252
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 176.41998410361288
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 176.28719749487942
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 195.67305663484268
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 171.07726164634485
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 157.44199735095495
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 184.28803275317563
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 194.06687485323982
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 175.7033715134278
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 182.00709858014062
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 135.79494345287662
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 182.14617299966642
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 192.4276631629793
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 162.91155310009663
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 162.60889943097627
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 199.74360465014774
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 159.37648358483676
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 168.93580654174337
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 168.81567387509227
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 154.00773457129816
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 171.97129924494246
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 175.1490455542351
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 134.339912090162
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 193.42780059345586
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 166.5438361401591
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 187.99350849201278
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 174.413989335209
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 189.89845879362122
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 164.01435559309937
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 189.2564975932812
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 156.79473504958088
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 191.25060797968257
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 169.97243258927517
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 154.1411946752723
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 180.46217774994383
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 158.30562427543092
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 192.5870325788493
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 190.93959888578414
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 174.75214520836533
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 172.83444722206332
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 205.08958705964224
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 181.62275449843565
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 171.22016650822673
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 192.6234370443484
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 161.63507773699246
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 135.50275946382408
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 170.91124544722246
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 178.96201100843956
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 181.65894365523297
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 159.23976002414275
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 210.73460904836662
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 206.36355678874412
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 168.58765673408874
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 198.62371998870407
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 186.30390508708317
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 191.751372139352
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 165.89338563248677
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 197.48155243493977
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 167.92995437545864
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 181.37888436104134
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 176.1711293268673
+    }
+  ],
+  "ippo_GAT_behavior_stable_H_Average episode_reward_T": [
+    369,
+    699,
+    995,
+    1416,
+    1847,
+    2171,
+    2568,
+    2827,
+    3212,
+    3653,
+    3987,
+    4281,
+    4692,
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632,
+    30200
+  ],
+  "ippo_GAT_behavior_stable_H_Average episode_win_num": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.75
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.625
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.25
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.5
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 1.125
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.375
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.875
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.625
+    }
+  ],
+  "ippo_GAT_behavior_stable_H_Average episode_win_num_T": [
+    369,
+    699,
+    995,
+    1416,
+    1847,
+    2171,
+    2568,
+    2827,
+    3212,
+    3653,
+    3987,
+    4281,
+    4692,
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632,
+    30200
+  ],
+  "ippo_GAT_behavior_stable_H_actor_grad_norm": [
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ4OTIzOTQ1NDRxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWAoAAAA0ODkyMzk0NTQ0cQFhLgEAAAAAAAAAFcsUPw=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ4NjM0MTMyOTZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWAoAAAA0ODYzNDEzMjk2cQFhLgEAAAAAAAAAVXZQPw=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ippo_GAT_behavior_stable_H_actor_grad_norm_T": [
+    11892,
+    25498
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_decoder_grad_norm": [
+    739.9823760986328,
+    732.1238632202148,
+    737.6753692626953,
+    717.2087478637695,
+    720.7896194458008,
+    707.4144058227539,
+    689.7455139160156,
+    678.342658996582,
+    687.5363922119141,
+    525.8546295166016,
+    632.1668853759766,
+    632.9277877807617,
+    632.6331787109375,
+    609.5195617675781,
+    566.9889907836914,
+    598.2611083984375,
+    572.8296051025391,
+    550.3731842041016,
+    532.3290405273438,
+    487.7735366821289,
+    461.35820388793945,
+    475.97576904296875,
+    431.38499450683594,
+    417.2157211303711,
+    384.6856384277344,
+    365.2966728210449,
+    341.9552059173584,
+    332.34098052978516,
+    276.770544052124,
+    279.769814491272,
+    253.64627265930176,
+    252.80293083190918,
+    247.07232666015625,
+    226.51879119873047,
+    207.8338041305542,
+    195.71245956420898,
+    195.19931983947754,
+    175.2361831665039,
+    161.2969150543213,
+    148.6990089416504,
+    139.81180381774902,
+    131.98561096191406,
+    112.93647766113281,
+    106.65650844573975,
+    66.14757251739502,
+    93.96322059631348,
+    86.20889377593994,
+    89.50986576080322,
+    90.47313690185547,
+    84.44858455657959,
+    93.61856174468994,
+    92.10196876525879,
+    94.64592933654785,
+    91.765305519104,
+    84.19001197814941,
+    83.37220478057861,
+    84.04110336303711,
+    77.56302833557129,
+    70.62295722961426
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_decoder_grad_norm_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_encoder_grad_norm": [
+    3.3688990473747253,
+    3.3131451308727264,
+    3.330277532339096,
+    3.174349009990692,
+    3.1882891952991486,
+    3.113710969686508,
+    3.0156182646751404,
+    2.925330013036728,
+    3.116098254919052,
+    2.2530403584241867,
+    2.791216939687729,
+    2.768142908811569,
+    2.770058959722519,
+    2.674129366874695,
+    2.5794158577919006,
+    2.820411890745163,
+    2.6609636545181274,
+    2.5486837923526764,
+    2.497920960187912,
+    2.2576197534799576,
+    2.20918570458889,
+    2.29257071018219,
+    2.1395566910505295,
+    2.0240486413240433,
+    1.9260685741901398,
+    1.8549684584140778,
+    1.812263622879982,
+    1.7834173887968063,
+    1.5448343381285667,
+    1.5482342168688774,
+    1.435717612504959,
+    1.424097664654255,
+    1.391627922654152,
+    1.281312495470047,
+    1.216919481754303,
+    1.1798523291945457,
+    1.1620947197079659,
+    1.0484466254711151,
+    0.9279968813061714,
+    0.9083440974354744,
+    0.891412228345871,
+    0.9233262911438942,
+    0.8455085679888725,
+    0.8370700962841511,
+    0.46932047978043556,
+    0.8672050461173058,
+    0.7715672217309475,
+    0.8199997767806053,
+    0.7387350238859653,
+    0.6866886876523495,
+    0.7253378257155418,
+    0.6740254610776901,
+    0.6336384937167168,
+    0.6339155957102776,
+    0.5376924425363541,
+    0.532322458922863,
+    0.4949730858206749,
+    0.4768165536224842,
+    0.43174753710627556
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_encoder_grad_norm_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_kl": [
+    0.21178522147238255,
+    0.21175752207636833,
+    0.2117275856435299,
+    0.21175429970026016,
+    0.21169358678162098,
+    0.21167104691267014,
+    0.21167016960680485,
+    0.21167119964957237,
+    0.21160680800676346,
+    0.2116586659103632,
+    0.21164369024336338,
+    0.21161043643951416,
+    0.21163269132375717,
+    0.21161111816763878,
+    0.21163803525269032,
+    0.21163534931838512,
+    0.21159699000418186,
+    0.21159282885491848,
+    0.2116300966590643,
+    0.21161314100027084,
+    0.2116117049008608,
+    0.211617236956954,
+    0.2116479054093361,
+    0.21156189776957035,
+    0.21161949262022972,
+    0.21161214634776115,
+    0.21162657253444195,
+    0.21161053888499737,
+    0.21160506457090378,
+    0.21161211840808392,
+    0.21162725239992142,
+    0.21161012537777424,
+    0.21161123923957348,
+    0.21166115812957287,
+    0.2116789035499096,
+    0.2116536796092987,
+    0.21165757440030575,
+    0.21169923804700375,
+    0.21165885403752327,
+    0.21169131062924862,
+    0.21172180399298668,
+    0.21176419593393803,
+    0.21172605827450752,
+    0.21174451150000095,
+    0.21173153072595596,
+    0.2117285020649433,
+    0.21172897517681122,
+    0.21171774342656136,
+    0.21174565516412258,
+    0.21169325150549412,
+    0.2116800658404827,
+    0.21166188642382622,
+    0.21161280199885368,
+    0.21155056916177273,
+    0.21157199144363403,
+    0.21152330748736858,
+    0.21150026842951775,
+    0.21144257858395576,
+    0.21139157004654408
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_kl_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_loss": [
+    208.42337799072266,
+    207.40300369262695,
+    192.64715957641602,
+    200.12749481201172,
+    186.13242149353027,
+    185.24715042114258,
+    191.82340621948242,
+    186.85914993286133,
+    173.2422218322754,
+    163.7759952545166,
+    190.99489212036133,
+    184.49867248535156,
+    159.06421279907227,
+    172.8562240600586,
+    178.1649398803711,
+    154.66450691223145,
+    157.98408126831055,
+    160.2051067352295,
+    152.5711612701416,
+    175.45852851867676,
+    164.7166347503662,
+    146.98054695129395,
+    161.3004493713379,
+    146.39227485656738,
+    163.75840187072754,
+    151.7369556427002,
+    152.73565864562988,
+    131.62477111816406,
+    162.47032928466797,
+    139.71361541748047,
+    153.72784614562988,
+    133.43758964538574,
+    124.01092147827148,
+    148.54007720947266,
+    138.16393089294434,
+    141.84545516967773,
+    145.76221656799316,
+    141.7011890411377,
+    144.19785499572754,
+    140.63763427734375,
+    134.77635955810547,
+    141.49713134765625,
+    148.98526573181152,
+    143.22679901123047,
+    106.64190101623535,
+    130.64681243896484,
+    136.75473976135254,
+    130.25515747070312,
+    136.4291000366211,
+    128.8530731201172,
+    137.12782669067383,
+    132.5763988494873,
+    132.3722972869873,
+    141.63057327270508,
+    143.34635162353516,
+    129.48446083068848,
+    107.83017349243164,
+    132.05104064941406,
+    116.99339580535889
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_loss_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_total": [
+    208.42359161376953,
+    207.40321731567383,
+    192.6473731994629,
+    200.1277084350586,
+    186.13263320922852,
+    185.24736404418945,
+    191.8236198425293,
+    186.8593635559082,
+    173.24243354797363,
+    163.7762050628662,
+    190.9951057434082,
+    184.4988842010498,
+    159.0644245147705,
+    172.85643768310547,
+    178.16515159606934,
+    154.66471672058105,
+    157.98429107666016,
+    160.2053165435791,
+    152.5713710784912,
+    175.45873832702637,
+    164.71684455871582,
+    146.98075675964355,
+    161.30065727233887,
+    146.392484664917,
+    163.75861167907715,
+    151.7371654510498,
+    152.73586654663086,
+    131.62498092651367,
+    162.4705410003662,
+    139.71382331848145,
+    153.72805404663086,
+    133.43779754638672,
+    124.0111312866211,
+    148.54028701782227,
+    138.16414260864258,
+    141.8456630706787,
+    145.76242637634277,
+    141.7013988494873,
+    144.19806671142578,
+    140.63784408569336,
+    134.77656745910645,
+    141.4973430633545,
+    148.9854736328125,
+    143.22700881958008,
+    106.64211082458496,
+    130.64702224731445,
+    136.75494956970215,
+    130.25536727905273,
+    136.42931175231934,
+    128.8532829284668,
+    137.12803840637207,
+    132.5766086578369,
+    132.37251091003418,
+    141.63078689575195,
+    143.3465633392334,
+    129.48467254638672,
+    107.83038330078125,
+    132.0512523651123,
+    116.99360656738281
+  ],
+  "ippo_GAT_behavior_stable_H_behavior_total_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_critic_grad_norm": [
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ4NzIyMTkyOTZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWAoAAAA0ODcyMjE5Mjk2cQFhLgEAAAAAAAAAVJ5sQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ5MjI0ODA5NjBxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWAoAAAA0OTIyNDgwOTYwcQFhLgEAAAAAAAAAx1RRQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ippo_GAT_behavior_stable_H_critic_grad_norm_T": [
+    11892,
+    25498
+  ],
+  "ippo_GAT_behavior_stable_H_dist_entropy": [
+    1.5653206729888918,
+    1.5329780133565265
+  ],
+  "ippo_GAT_behavior_stable_H_dist_entropy_T": [
+    11892,
+    25498
+  ],
+  "ippo_GAT_behavior_stable_H_policy_loss": [
+    -0.5007499194145204,
+    -0.5019429409503937
+  ],
+  "ippo_GAT_behavior_stable_H_policy_loss_T": [
+    11892,
+    25498
+  ],
+  "ippo_GAT_behavior_stable_H_pred_decoder_grad_norm": [
+    70.07126522064209,
+    70.05606746673584,
+    69.86396408081055,
+    69.95137691497803,
+    70.3908338546753,
+    71.04831600189209,
+    69.54988956451416,
+    69.76922130584717,
+    70.63005828857422,
+    69.23898124694824,
+    68.9870252609253,
+    68.9539041519165,
+    70.38595199584961,
+    69.14577388763428,
+    68.57226181030273,
+    69.7916669845581,
+    69.83378982543945,
+    69.51505661010742,
+    69.96278381347656,
+    68.5870590209961,
+    68.53194808959961,
+    69.64566993713379,
+    68.5156660079956,
+    69.80725383758545,
+    68.33738327026367,
+    68.75463008880615,
+    68.03853797912598,
+    70.07483768463135,
+    67.72365188598633,
+    68.85531044006348,
+    68.49769687652588,
+    68.82337856292725,
+    70.23832035064697,
+    68.30638313293457,
+    68.67291259765625,
+    67.81435108184814,
+    68.10259914398193,
+    67.49563789367676,
+    67.45994567871094,
+    67.44922637939453,
+    67.885498046875,
+    67.6119441986084,
+    66.73145771026611,
+    67.46465015411377,
+    66.29810810089111,
+    68.3750581741333,
+    67.55561065673828,
+    67.62282085418701,
+    66.95367431640625,
+    67.01325988769531,
+    67.2919979095459,
+    67.41867637634277,
+    66.87917804718018,
+    67.19499015808105,
+    66.8918628692627,
+    67.20524787902832,
+    68.23565769195557,
+    67.03401470184326,
+    67.5728702545166
+  ],
+  "ippo_GAT_behavior_stable_H_pred_decoder_grad_norm_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_pred_encoder_grad_norm": [
+    3.716386526823044,
+    3.686166226863861,
+    3.6742395758628845,
+    3.688105434179306,
+    3.7067254781723022,
+    3.7291052639484406,
+    3.669236123561859,
+    3.6676793098449707,
+    3.70887154340744,
+    3.633631646633148,
+    3.6255461871623993,
+    3.6293672621250153,
+    3.7163040935993195,
+    3.6233507692813873,
+    3.6355150938034058,
+    3.676092177629471,
+    3.6689217388629913,
+    3.691278100013733,
+    3.679903507232666,
+    3.5891700983047485,
+    3.5938980281352997,
+    3.654584914445877,
+    3.593198239803314,
+    3.6730875968933105,
+    3.6138593554496765,
+    3.6284761130809784,
+    3.5689778923988342,
+    3.692871630191803,
+    3.568573623895645,
+    3.6274266242980957,
+    3.607652097940445,
+    3.635263890028,
+    3.7165983617305756,
+    3.6058873534202576,
+    3.641278237104416,
+    3.5795845687389374,
+    3.5963122248649597,
+    3.5532186329364777,
+    3.5541519820690155,
+    3.5693335235118866,
+    3.5903738141059875,
+    3.57632178068161,
+    3.508148103952408,
+    3.568124145269394,
+    3.498467803001404,
+    3.6191367506980896,
+    3.57037290930748,
+    3.587949901819229,
+    3.5359413027763367,
+    3.529869645833969,
+    3.5525603890419006,
+    3.5801211297512054,
+    3.546706646680832,
+    3.567809045314789,
+    3.5545474588871,
+    3.5623555183410645,
+    3.6058113873004913,
+    3.5731970965862274,
+    3.577395737171173
+  ],
+  "ippo_GAT_behavior_stable_H_pred_encoder_grad_norm_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_prediction_loss": [
+    22.72656798362732,
+    22.87211275100708,
+    22.48470973968506,
+    22.24032497406006,
+    21.64440107345581,
+    21.261534690856934,
+    22.156926155090332,
+    21.983428955078125,
+    21.539145708084106,
+    22.946463584899902,
+    23.22356414794922,
+    22.578718185424805,
+    20.577554941177368,
+    22.59739065170288,
+    22.913426399230957,
+    21.053839683532715,
+    21.281023740768433,
+    21.198118448257446,
+    20.750181198120117,
+    23.391639709472656,
+    22.17467451095581,
+    20.65518021583557,
+    22.02933168411255,
+    20.857349395751953,
+    22.20404577255249,
+    21.37519097328186,
+    22.47319793701172,
+    19.80427575111389,
+    22.5422420501709,
+    20.874187707901,
+    21.98043727874756,
+    20.29630947113037,
+    18.735002040863037,
+    21.61194133758545,
+    20.237562894821167,
+    21.254226446151733,
+    21.485700845718384,
+    21.25292658805847,
+    21.446287155151367,
+    21.610008716583252,
+    20.802963972091675,
+    21.279640197753906,
+    22.403685092926025,
+    20.799676179885864,
+    22.973958015441895,
+    19.84092664718628,
+    20.885183095932007,
+    20.76700758934021,
+    21.001641750335693,
+    20.88040566444397,
+    20.716541290283203,
+    19.80085802078247,
+    20.86055040359497,
+    21.048391580581665,
+    21.356950521469116,
+    20.2747859954834,
+    19.226003170013428,
+    19.954936742782593,
+    19.09554696083069
+  ],
+  "ippo_GAT_behavior_stable_H_prediction_loss_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_ratio": [
+    0.8961140886942547,
+    0.9076395233472184
+  ],
+  "ippo_GAT_behavior_stable_H_ratio_T": [
+    11892,
+    25498
+  ],
+  "ippo_GAT_behavior_stable_H_stability_loss": [
+    113.06799507141113,
+    116.27379989624023,
+    110.86691284179688,
+    111.21566581726074,
+    106.84515190124512,
+    107.10307121276855,
+    108.63583564758301,
+    107.18816375732422,
+    104.61141014099121,
+    104.69806480407715,
+    110.60506629943848,
+    104.92753791809082,
+    94.61779117584229,
+    102.20157432556152,
+    103.34466743469238,
+    92.68834114074707,
+    94.49442863464355,
+    94.9131965637207,
+    91.27469730377197,
+    100.74347305297852,
+    98.4430980682373,
+    88.17492771148682,
+    93.35337448120117,
+    89.06895446777344,
+    94.77713966369629,
+    89.24512004852295,
+    91.42277812957764,
+    78.69075679779053,
+    94.79803848266602,
+    82.70732402801514,
+    89.62944412231445,
+    79.79334926605225,
+    79.01723670959473,
+    84.56868839263916,
+    79.40171813964844,
+    86.2065544128418,
+    86.87885570526123,
+    83.8596420288086,
+    82.90198707580566,
+    87.05504322052002,
+    79.99381160736084,
+    79.93633842468262,
+    87.51894855499268,
+    84.49298477172852,
+    68.64443778991699,
+    79.6879653930664,
+    83.83906841278076,
+    81.88261795043945,
+    78.64482879638672,
+    82.77438163757324,
+    80.69130516052246,
+    76.60886096954346,
+    76.9785623550415,
+    82.02859210968018,
+    79.48544692993164,
+    73.99411678314209,
+    71.05845069885254,
+    74.05958461761475,
+    70.66307163238525
+  ],
+  "ippo_GAT_behavior_stable_H_stability_loss_T": [
+    5091,
+    5489,
+    5841,
+    6169,
+    6621,
+    6935,
+    7345,
+    7708,
+    8181,
+    8448,
+    8744,
+    9086,
+    9597,
+    9848,
+    10211,
+    10634,
+    11032,
+    11487,
+    11892,
+    12177,
+    12506,
+    12939,
+    13276,
+    13800,
+    14082,
+    14450,
+    14829,
+    15312,
+    15715,
+    16241,
+    16643,
+    17230,
+    17805,
+    18166,
+    18631,
+    19133,
+    19482,
+    20000,
+    20523,
+    20908,
+    21359,
+    21857,
+    22258,
+    22763,
+    22974,
+    23429,
+    23866,
+    24240,
+    24656,
+    25067,
+    25498,
+    26073,
+    26521,
+    26915,
+    27380,
+    27856,
+    28443,
+    28967,
+    29632
+  ],
+  "ippo_GAT_behavior_stable_H_value_loss": [
+    16.813062540690105,
+    18.620743090311688
+  ],
+  "ippo_GAT_behavior_stable_H_value_loss_T": [
+    11892,
+    25498
+  ]
+}
